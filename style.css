@@ -1,0 +1,14 @@
+body {
+    background-color: #0b2441;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.meetyourinst {
+    text-align: left;
+    width: 45%;
+}
+
+#contact {
+    color: orange;
+}
